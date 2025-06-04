@@ -45,8 +45,6 @@
 
 ---
 
-<br/>
-
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
@@ -92,4 +90,4 @@
 
 ## Contact with me
 
-[linkedin]: [https://www.linkedin.com/in/matheus-carvalho-378771316/](https://www.linkedin.com/in/bruno-correr-côa-077a98315/)
+[linkedin]: https://www.linkedin.com/in/bruno-correr-côa-077a98315/
