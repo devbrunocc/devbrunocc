@@ -1,6 +1,6 @@
 ## I´m Bruno Correr, and a love all of stuff in tecnology, im curious about the things works and what happens behind them, always trying to innovate.
 
-<img align="right" alt="GIF" height="180px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG55ZmZhZWZ4amRuMWJ1dnhibDd1dGF0MmlyZGpiY2c3bHo3NjQ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5hVZKm6d0nWSIPXJv/giphy.gif" />
+
 
 ## I'm a Systems Analysis and Development Student  
 
@@ -14,15 +14,6 @@
 
 
 
----
-
-
-
-### Contact with me 📝
-
-
-[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 
 
 <br />
@@ -99,6 +90,6 @@
 
  
 
-
+## Contact with me
 
 [linkedin]: [https://www.linkedin.com/in/matheus-carvalho-378771316/](https://www.linkedin.com/in/bruno-correr-côa-077a98315/)
