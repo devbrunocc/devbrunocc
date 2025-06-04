@@ -44,11 +44,6 @@ I'm currently a student of **Systems Analysis and Development**, passionate abou
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=brunocc&theme=darkhub&column=6&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 📫 Let's Connect
 
