@@ -11,11 +11,8 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=brcokk)
 
 ---
 
@@ -104,5 +101,4 @@
 
 
 
-[website]: https://macarvalho07.github.io/Portifolio/
-[linkedin]: https://www.linkedin.com/in/matheus-carvalho-378771316/
+[linkedin]: [https://www.linkedin.com/in/matheus-carvalho-378771316/](https://www.linkedin.com/in/bruno-correr-côa-077a98315/)
