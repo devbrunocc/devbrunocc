@@ -1,4 +1,4 @@
-##I´m Bruno Correr, and a love all of stuff in tecnology, im curious about the things works and what happens behind them, always trying to innovate.
+## I´m Bruno Correr, and a love all of stuff in tecnology, im curious about the things works and what happens behind them, always trying to innovate.
 
 <img align="right" alt="GIF" height="180px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG55ZmZhZWZ4amRuMWJ1dnhibDd1dGF0MmlyZGpiY2c3bHo3NjQ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5hVZKm6d0nWSIPXJv/giphy.gif" />
 
@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bufy3lkd9t3layuovy8phpyr3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=brcokk)
 
 ---
 
