@@ -1,4 +1,4 @@
-
+##I´m Bruno Correr, and a love all of stuff in tecnology, im curious about the things works and what happens behind them, always trying to innovate.
 
 <img align="right" alt="GIF" height="180px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG55ZmZhZWZ4amRuMWJ1dnhibDd1dGF0MmlyZGpiY2c3bHo3NjQ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5hVZKm6d0nWSIPXJv/giphy.gif" />
 
