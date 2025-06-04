@@ -35,12 +35,6 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 
-
-
-
-
-
-
 <br/>
 
 ---
@@ -90,4 +84,4 @@
 
 ## Contact with me
 
-[linkedin]: https://www.linkedin.com/in/bruno-correr-côa-077a98315/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-correr-côa-077a98315/)
